@@ -15,11 +15,9 @@
 
 
 /**
- * Message elements
+ * Module
  */
-$GLOBALS['TL_MCE']['texts'][] = 'list';
-
-/**
- * Events
- */
-$GLOBALS['TL_EVENT_SUBSCRIBERS'][] = 'Avisota\Contao\Message\Element\Listing\DefaultRenderer';
+$GLOBALS['TL_LANG']['MOD']['avisota-message-element-list'] = array(
+	'Avisota - Message element "List"',
+	'"List" message element for Avisota messages.'
+);

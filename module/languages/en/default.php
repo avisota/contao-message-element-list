@@ -8,18 +8,13 @@
  *
  * @copyright  bit3 UG 2013
  * @author     Tristan Lins <tristan.lins@bit3.de>
- * @package    avisota/contao-message-element-list
+ * @package    avisota/contao-core
  * @license    LGPL-3.0+
  * @filesource
  */
 
 
 /**
- * Message elements
+ * Mailing content elements
  */
-$GLOBALS['TL_MCE']['texts'][] = 'list';
-
-/**
- * Events
- */
-$GLOBALS['TL_EVENT_SUBSCRIBERS'][] = 'Avisota\Contao\Message\Element\Listing\DefaultRenderer';
+$GLOBALS['TL_LANG']['MCE']['list']      = array('List', 'Generates an ordered or unordered list.');

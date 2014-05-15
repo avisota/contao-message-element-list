@@ -34,6 +34,11 @@
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
+	"autoload":{
+		"psr-0":{
+			"Avisota\\Contao\\Message\\Element\\Listing": "src/"
+		}
+	},
 	"extra": {
 		"contao": {
 			"sources": {
@@ -41,13 +46,13 @@
 			},
 			"transifex": {
 				"project": "avisota-contao",
-				"prefix": "contao-message-element-list",
+				"prefix": "contao-message-element-list-",
 				"languages_cto": "module/languages",
 				"languages_tx": ".tx"
 			}
 		},
 		"branch-alias": {
-			"dev-master": "2.0.x-dev"
+			"dev-develop": "2.0.x-dev"
 		}
 	}
 }
