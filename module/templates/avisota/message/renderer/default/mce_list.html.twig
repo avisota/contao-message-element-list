@@ -8,14 +8,14 @@
 {% set list = listType == 'ordered' ? 'ol' : 'ul' %}
 
 {% block content %}
-	{% spaceless %}
-		{% if headline %}
-			<{{ hl }}>{{ headline }}</{{ hl }}>
-		{% endif %}
-		<{{ list }}>
-		{% for item in listItems %}
-			<li>{{ item }}</li>
-		{% endfor %}
-		</{{ list }}>
-	{% endspaceless %}
+    {% spaceless %}
+        {% if headline %}
+            <{{ hl }}>{{ headline }}</{{ hl }}>
+        {% endif %}
+        <{{ list }}>
+        {% for item in listItems %}
+            <li>{{ item }}</li>
+        {% endfor %}
+        </{{ list }}>
+    {% endspaceless %}
 {% endblock %}

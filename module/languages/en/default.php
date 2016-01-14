@@ -13,8 +13,7 @@
  * @filesource
  */
 
-
 /**
  * Mailing content elements
  */
-$GLOBALS['TL_LANG']['MCE']['list']      = array('List', 'Generates an ordered or unordered list.');
+$GLOBALS['TL_LANG']['MCE']['list'] = array('List', 'Generates an ordered or unordered list.');
