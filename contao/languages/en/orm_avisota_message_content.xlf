@@ -3,23 +3,31 @@
     <body>
       <trans-unit id="orm_avisota_message_content.listType.0">
         <source>List type</source>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listType.1">
         <source>Please choose the type of list.</source>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listItems.0">
         <source>List items</source>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listItems.1">
         <source>If JavaScript is disabled, make sure to save your changes before modifying the order.</source>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.list_legend">
         <source>List items</source>
-        
+
+      </trans-unit>
+      <trans-unit id="orm_avisota_message_content.ordered">
+        <source>Ordered</source>
+
+      </trans-unit>
+      <trans-unit id="orm_avisota_message_content.unordered">
+        <source>unordered</source>
+
       </trans-unit>
     </body>
   </file>

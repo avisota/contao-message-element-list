@@ -4,27 +4,37 @@
       <trans-unit id="orm_avisota_message_content.listType.0">
         <source>List type</source>
         <target>Listentyp</target>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listType.1">
         <source>Please choose the type of list.</source>
         <target>Bitte wählen Sie den Typ der Liste aus.</target>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listItems.0">
         <source>List items</source>
         <target>Listenelemente</target>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listItems.1">
         <source>If JavaScript is disabled, make sure to save your changes before modifying the order.</source>
         <target>Falls Javascript ausgeschaltet ist sichern Sie Ihre Änderungen, bevor Sie die Reihenfolge der Elemente verändern.</target>
-        
+
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.list_legend">
         <source>List items</source>
         <target>Listenelemente</target>
-        
+
+      </trans-unit>
+      <trans-unit id="orm_avisota_message_content.ordered">
+        <source>Ordered</source>
+        <target>Sortiert</target>
+
+      </trans-unit>
+      <trans-unit id="orm_avisota_message_content.unordered">
+        <source>unordered</source>
+        <target>Unsortiert</target>
+
       </trans-unit>
     </body>
   </file>
