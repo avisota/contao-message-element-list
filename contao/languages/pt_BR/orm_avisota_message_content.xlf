@@ -3,10 +3,12 @@
     <body>
       <trans-unit id="orm_avisota_message_content.listType.0">
         <source>List type</source>
+        <target>Tipo de lista</target>
 
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listType.1">
         <source>Please choose the type of list.</source>
+        <target>Por favor, escolha o tipo de lista.</target>
 
       </trans-unit>
       <trans-unit id="orm_avisota_message_content.listItems.0">
