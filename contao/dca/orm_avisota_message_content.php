@@ -34,6 +34,7 @@ $GLOBALS['TL_DCA']['orm_avisota_message_content']['fields']['listType']  = array
     'options'   => array('ordered', 'unordered'),
     'reference' => &$GLOBALS['TL_LANG']['orm_avisota_message_content']
 );
+
 $GLOBALS['TL_DCA']['orm_avisota_message_content']['fields']['listItems'] = array
 (
     'label'     => &$GLOBALS['TL_LANG']['orm_avisota_message_content']['listItems'],

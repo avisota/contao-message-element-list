@@ -3,10 +3,12 @@
     <body>
       <trans-unit id="MCE.list.0">
         <source>List</source>
+        <target>Lista</target>
         
       </trans-unit>
       <trans-unit id="MCE.list.1">
         <source>Generates an ordered or unordered list.</source>
+        <target>Gera uma lista ordenada ou não ordenada.</target>
         
       </trans-unit>
     </body>
