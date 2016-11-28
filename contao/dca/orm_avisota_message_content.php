@@ -26,7 +26,7 @@ $GLOBALS['TL_DCA']['orm_avisota_message_content']['metapalettes']['list'] = arra
 );
 
 
-$GLOBALS['TL_DCA']['orm_avisota_message_content']['fields']['listType']  = array
+$GLOBALS['TL_DCA']['orm_avisota_message_content']['fields']['listType'] = array
 (
     'label'     => &$GLOBALS['TL_LANG']['orm_avisota_message_content']['listType'],
     'exclude'   => true,
